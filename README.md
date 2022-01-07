@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm using Github 👋
+
+I'm Kerem, Unity Developer developing mobile games, VR/AR apps usually, currently living in the UK.
+
 
 <!--
 **keremaydin52/keremaydin52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
