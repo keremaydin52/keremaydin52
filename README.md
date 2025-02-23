@@ -59,9 +59,9 @@
 - 🎮 Portfolio: [Coming Soon](#)
 
 ## 🛠️ Projects
-- **Sudoku Game** – Developed a new Sudoku game with optimized gameplay mechanics and a step-by-step hint system.
+- **[Sudoku Jigsaw](https://www.puzzling.com/games/sudoku-jigsaw/)** – Developed a new Sudoku game with optimized gameplay mechanics and a step-by-step hint system.
 - **Video Wall App** – Created an interactive quiz and survey app using Unity, NodeJS, and MySQL.
-- **Braindom** – Contributed to hyper-casual mobile games with **100M+ downloads**.
+- **[Braindom](https://matchingham.gs/games)** – Contributed to hyper-casual mobile games with **100M+ downloads**.
 
 ---
 
